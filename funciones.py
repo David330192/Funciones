@@ -5,5 +5,4 @@ def nombre(): # Mi primera funcion
     b=8
     c=a+b
     print(c)
-   
 nombre()
