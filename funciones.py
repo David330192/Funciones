@@ -13,3 +13,11 @@ def resta ():
     c=a-b
     print("El resultado de la resta es:",c)
 resta()
+
+def Multiplicacion():
+    a=5
+    b=8
+    c=a*b
+    print("El resultado de la multiplicacion es: ",c)
+Multiplicacion()
+    
